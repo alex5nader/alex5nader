@@ -1,3 +1,7 @@
-### 👋 Hey, I'm Alex!
+## 👋 Hey, I'm Alex!
 
-I'm an undergrad CS student at the University of Texas at Dallas. Interested in game development and solving problems. Check out games I've worked on [here](https://alex5nader.itch.io/)!
+**Currently looking for a Summer 2024 internship!**
+
+I'm an undergrad CS student at the University of Texas at Dallas, graudating December 2024.
+
+Passionate about creating tooling, and currently studying compiler design and programming language theory.
