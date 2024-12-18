@@ -10,4 +10,4 @@ I love creating software that helps make day-to-day life easier, with many inter
 - Programming language design
 - Formal verification
 - Game development
-- Graphics programming/rendering
+- Graphics programming
