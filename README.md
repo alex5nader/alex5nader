@@ -9,4 +9,5 @@ I love creating software that helps make day-to-day life easier, with many inter
 - Compilers
 - Programming language design
 - Formal verification
-- Game development and rendering
+- Game development
+- Graphics programming/rendering
