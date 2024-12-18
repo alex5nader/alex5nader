@@ -1,10 +1,10 @@
 ## 👋 Hey, I'm Alex!
 
-### 👀 I'm currently looking for full time positions to start in January 2025!
+### 👀 I'm currently looking for a full time software engineering position!
 
-I'm an undergrad CS student at the University of Texas at Dallas, graduating December 2024.
+I'm a recent CS graduate from the University of Texas at Dallas.
 
-I love creating software tools to make repetitive tasks easier, and am interested in many things:
+I love creating software that helps make day-to-day life easier, with many interests:
 
 - Compilers
 - Programming language design
